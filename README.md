@@ -4,7 +4,8 @@ Pomodoro Application.
 
 ## Getting Started
 
-<img src="assets/images/screenshot1.jpg" alt="Alt text" width="300" />
+<img src="assets/images/screenshot2.jpg" alt="Alt text" width="250" />
+<img src="assets/images/screenshot1.jpg" alt="Alt text" width="250" />
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
