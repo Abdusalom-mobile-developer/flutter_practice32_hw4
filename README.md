@@ -1,14 +1,11 @@
 # flutter_practice32_hw4
 
-A new Flutter project.
+Pomodoro Application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/screenshot1.jpg" alt="Alt text" width="300" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- ![image1](assets/images/screenshot1.jpg)
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
